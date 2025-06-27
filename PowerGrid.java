@@ -210,7 +210,6 @@ public class PowerGrid {
     public static void main(String[] args) {
         try {
             PowerGrid pg = new PowerGrid("input.txt");
-
             ArrayList<PowerLine> critical = pg.criticalLines();
             System.out.println("Critical Lines:");
             for (PowerLine pl : critical) {

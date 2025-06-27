@@ -1,11 +1,10 @@
 4
-5
+4
 Chennai
 Delhi
 Kolkata
 Mumbai
 Chennai Delhi
-Chennai Kolkata
 Chennai Mumbai
 Delhi Kolkata
 Delhi Mumbai
